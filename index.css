@@ -30,7 +30,6 @@ body {
 .smoke-bg {
     position: fixed;
     inset: 0;
-    background: url("https://i.imgur.com/8KZ7FQf.png") repeat;
     opacity: 0.08;
     animation: smokeMove 120s linear infinite;
     z-index: -1;
