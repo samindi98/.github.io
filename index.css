@@ -35,7 +35,7 @@ body {
 /* ================= HERO SECTION ================= */
 
 .hero {
-    padding: 120px 20px 80px;
+    padding: 50px 20px 80px;
 }
 
 .hero-content {
@@ -304,7 +304,7 @@ footer {
         margin: auto;
     }
 
-    .hero-buttons,
+    .hero-buttons,.icon-buttons,
     .hero-tags {
         justify-content: center;
     }
